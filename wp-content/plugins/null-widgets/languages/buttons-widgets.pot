@@ -1,0 +1,385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Buttons Widgets for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-07 23:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: widgets/buttons.php:220
+msgid "Align icon"
+msgstr ""
+
+#: widgets/buttons.php:247
+msgid "Align icon hover"
+msgstr ""
+
+#: widgets/buttons.php:194
+msgid "Alignment"
+msgstr ""
+
+#: widgets/buttons.php:357
+msgid "Alignment (Bacground icon)"
+msgstr ""
+
+#: widgets/buttons.php:324 widgets/buttons.php:331
+msgid "Background icon"
+msgstr ""
+
+#: widgets/buttons.php:120 widgets/buttons.php:153 widgets/buttons.php:347
+msgid "Background multi color"
+msgstr ""
+
+#: widgets/buttons.php:739
+msgid "Border color"
+msgstr ""
+
+#: widgets/buttons.php:628
+msgid "Border radius"
+msgstr ""
+
+#: widgets/buttons.php:664
+msgid "Border radius Icon"
+msgstr ""
+
+#: widgets/buttons.php:608
+msgid "Border size"
+msgstr ""
+
+#: widgets/buttons.php:169
+msgid "Border style"
+msgstr ""
+
+#: widgets/buttons.php:944
+msgid "Box shadow"
+msgstr ""
+
+#: widgets/buttons.php:21
+msgid "Buttons"
+msgstr ""
+
+#. Name of the plugin
+msgid "Buttons Widgets for Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Buttons Widgets for Elementor allows to WP Cute"
+msgstr ""
+
+#: widgets/buttons.php:202 widgets/buttons.php:365
+msgid "Center"
+msgstr ""
+
+#: widgets/buttons.php:116 widgets/buttons.php:343
+msgid "Choose layout"
+msgstr ""
+
+#: widgets/buttons.php:804
+msgid "Color 1"
+msgstr ""
+
+#: widgets/buttons.php:820
+msgid "Color 1 Hover"
+msgstr ""
+
+#: widgets/buttons.php:852
+msgid "Color 1 Hover SP"
+msgstr ""
+
+#: widgets/buttons.php:836
+msgid "Color 1 SP"
+msgstr ""
+
+#: widgets/buttons.php:812
+msgid "Color 2"
+msgstr ""
+
+#: widgets/buttons.php:828
+msgid "Color 2 Hover"
+msgstr ""
+
+#: widgets/buttons.php:860
+msgid "Color 2 Hover SP"
+msgstr ""
+
+#: widgets/buttons.php:844
+msgid "Color 2 SP"
+msgstr ""
+
+#: widgets/buttons.php:868
+msgid "Color Icon 1"
+msgstr ""
+
+#: widgets/buttons.php:884
+msgid "Color Icon 1 Hover"
+msgstr ""
+
+#: widgets/buttons.php:916
+msgid "Color Icon 1 Hover SP"
+msgstr ""
+
+#: widgets/buttons.php:900
+msgid "Color Icon 1 SP"
+msgstr ""
+
+#: widgets/buttons.php:876
+msgid "Color Icon 2"
+msgstr ""
+
+#: widgets/buttons.php:892
+msgid "Color Icon 2 Hover"
+msgstr ""
+
+#: widgets/buttons.php:924
+msgid "Color Icon 2 Hover SP"
+msgstr ""
+
+#: widgets/buttons.php:908
+msgid "Color Icon 2 SP"
+msgstr ""
+
+#: widgets/buttons.php:119 widgets/buttons.php:346
+msgid "Default"
+msgstr ""
+
+#: widgets/buttons.php:388
+msgid "Distant"
+msgstr ""
+
+#: widgets/buttons.php:174
+msgid "Dotted"
+msgstr ""
+
+#: widgets/buttons.php:176
+msgid "Double"
+msgstr ""
+
+#: widgets/buttons.php:236 widgets/buttons.php:263
+msgid "Down"
+msgstr ""
+
+#: widgets/buttons.php:129
+msgid "Effect button"
+msgstr ""
+
+#: widgets/buttons.php:548
+msgid "Font size icon"
+msgstr ""
+
+#: widgets/buttons.php:588
+msgid "Font size icon hover"
+msgstr ""
+
+#: widgets/buttons.php:528
+msgid "Font size text"
+msgstr ""
+
+#: widgets/buttons.php:568
+msgid "Font size text hover"
+msgstr ""
+
+#. Author of the plugin
+msgid "Full Elementor"
+msgstr ""
+
+#: widgets/buttons.php:49
+msgid "General"
+msgstr ""
+
+#: widgets/buttons.php:177
+msgid "Groove"
+msgstr ""
+
+#: widgets/buttons.php:688
+msgid "Height icon"
+msgstr ""
+
+#: widgets/buttons.php:173
+msgid "Hidden"
+msgstr ""
+
+#: widgets/buttons.php:277 widgets/buttons.php:289 widgets/buttons.php:301
+#: widgets/buttons.php:313
+msgid "Hide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.fullelementor.com"
+msgstr ""
+
+#: widgets/buttons.php:96
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/buttons.php:63 widgets/buttons.php:82 widgets/buttons.php:761
+#: widgets/buttons.php:783
+msgid "Icon"
+msgstr ""
+
+#: widgets/buttons.php:182
+msgid "Inherit"
+msgstr ""
+
+#: widgets/buttons.php:181
+msgid "Initial"
+msgstr ""
+
+#: widgets/buttons.php:179
+msgid "Inset"
+msgstr ""
+
+#: widgets/buttons.php:109
+msgid "Layout"
+msgstr ""
+
+#: widgets/buttons.php:198 widgets/buttons.php:224 widgets/buttons.php:251
+#: widgets/buttons.php:361
+msgid "Left"
+msgstr ""
+
+#: widgets/buttons.php:94
+msgid "Link"
+msgstr ""
+
+#: widgets/buttons.php:445
+msgid "Margin icon"
+msgstr ""
+
+#: widgets/buttons.php:493
+msgid "Margin icon hover"
+msgstr ""
+
+#: widgets/buttons.php:334
+msgid "No"
+msgstr ""
+
+#: widgets/buttons.php:132 widgets/buttons.php:172
+msgid "None"
+msgstr ""
+
+#: widgets/buttons.php:180
+msgid "Outset"
+msgstr ""
+
+#: widgets/buttons.php:396
+msgid "Padding buttons"
+msgstr ""
+
+#: widgets/buttons.php:421
+msgid "Padding text"
+msgstr ""
+
+#: widgets/buttons.php:469
+msgid "Padding text hover"
+msgstr ""
+
+#: widgets/buttons.php:178
+msgid "Ridge"
+msgstr ""
+
+#: widgets/buttons.php:206 widgets/buttons.php:228 widgets/buttons.php:255
+#: widgets/buttons.php:369
+msgid "Right"
+msgstr ""
+
+#: widgets/buttons.php:276 widgets/buttons.php:288 widgets/buttons.php:300
+#: widgets/buttons.php:312
+msgid "Show"
+msgstr ""
+
+#: widgets/buttons.php:286
+msgid "Show icon"
+msgstr ""
+
+#: widgets/buttons.php:310
+msgid "Show icon on SP"
+msgstr ""
+
+#: widgets/buttons.php:274
+msgid "Show text"
+msgstr ""
+
+#: widgets/buttons.php:298
+msgid "Show text on SP"
+msgstr ""
+
+#: widgets/buttons.php:175
+msgid "Solid"
+msgstr ""
+
+#: widgets/buttons.php:133
+msgid "style 1"
+msgstr ""
+
+#: widgets/buttons.php:142
+msgid "style 10"
+msgstr ""
+
+#: widgets/buttons.php:143
+msgid "style 11"
+msgstr ""
+
+#: widgets/buttons.php:144
+msgid "style 12"
+msgstr ""
+
+#: widgets/buttons.php:134
+msgid "style 2"
+msgstr ""
+
+#: widgets/buttons.php:135
+msgid "style 3"
+msgstr ""
+
+#: widgets/buttons.php:136
+msgid "style 4"
+msgstr ""
+
+#: widgets/buttons.php:137
+msgid "style 5"
+msgstr ""
+
+#: widgets/buttons.php:138
+msgid "style 6"
+msgstr ""
+
+#: widgets/buttons.php:139
+msgid "style 7"
+msgstr ""
+
+#: widgets/buttons.php:140
+msgid "style 8"
+msgstr ""
+
+#: widgets/buttons.php:141
+msgid "style 9"
+msgstr ""
+
+#: widgets/buttons.php:55 widgets/buttons.php:750 widgets/buttons.php:772
+msgid "Text"
+msgstr ""
+
+#: widgets/buttons.php:74
+msgid "Text hover"
+msgstr ""
+
+#: widgets/buttons.php:232 widgets/buttons.php:259
+msgid "Top"
+msgstr ""
+
+#: widgets/buttons.php:709
+msgid "Width icon"
+msgstr ""
+
+#: widgets/buttons.php:335
+msgid "Yes"
+msgstr ""
